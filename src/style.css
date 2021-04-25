@@ -1,1 +1,20 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: #056d0f;
+}
+.icono1 {
+  font-size: 110px;
+  color: blue;
+}
+.iconoBlack {
+  font-size: 110px;
+  color: black;
+}
+.iconoRed {
+  font-size: 110px;
+  color: red;
+}
+
+h1 {
+  font-size: 150px;
+}
